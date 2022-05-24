@@ -1,0 +1,4 @@
+git init   => to initialise git
+git status => list all untrack files
+git add -A => adding to staging area
+git commit-m "msg"=>add to loacl repository
